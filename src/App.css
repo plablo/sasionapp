@@ -22,7 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  padding: 2em 1em;
+  /* padding: 2em 1em; */
 }
 
 .App-link {
@@ -42,6 +42,7 @@ textarea,
 input,
 textarea.form-control, 
 input.form-control {
+  padding: 0.5em;
   background-color: transparent;
   border: none !important;
   color: white;
@@ -57,4 +58,5 @@ textarea.form-control:focus, input.form-control:focus {
   background-color: transparent;
   box-shadow: none;
   color: white;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #9400FF, 0 0 40px #9400FF, 0 0 50px #9400FF;
 }

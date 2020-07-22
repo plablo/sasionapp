@@ -29,6 +29,11 @@ function App() {
     setTexto(event.target.value);
   }
 
+  const focusHandler = (event) => {
+    setIntro(false);
+    setTexto('');
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -42,7 +47,7 @@ function App() {
               rows="6"
               onChange={inputHandler}
               value={texto}
-              onFocus={() => setTexto('')}
+              onFocus={focusHandler}
               className="align-self-center"
             />
           </Form.Row>
