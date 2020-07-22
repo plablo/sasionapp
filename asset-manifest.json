@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/sasionapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sasionapp/static/js/main.e1b6663c.chunk.js",
-    "main.js.map": "/sasionapp/static/js/main.e1b6663c.chunk.js.map",
+    "main.css": "/sasionapp/static/css/main.e458c6fc.chunk.css",
+    "main.js": "/sasionapp/static/js/main.cfe9c1fa.chunk.js",
+    "main.js.map": "/sasionapp/static/js/main.cfe9c1fa.chunk.js.map",
     "runtime-main.js": "/sasionapp/static/js/runtime-main.4468a8c1.js",
     "runtime-main.js.map": "/sasionapp/static/js/runtime-main.4468a8c1.js.map",
-    "static/js/2.84ae64c4.chunk.js": "/sasionapp/static/js/2.84ae64c4.chunk.js",
-    "static/js/2.84ae64c4.chunk.js.map": "/sasionapp/static/js/2.84ae64c4.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/sasionapp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d3d2889.chunk.js": "/sasionapp/static/js/2.8d3d2889.chunk.js",
+    "static/js/2.8d3d2889.chunk.js.map": "/sasionapp/static/js/2.8d3d2889.chunk.js.map",
     "index.html": "/sasionapp/index.html",
-    "precache-manifest.c7c19b049ebc94910268ca01b52d6ece.js": "/sasionapp/precache-manifest.c7c19b049ebc94910268ca01b52d6ece.js",
+    "precache-manifest.9cc8297bd5428b41a7fd0034e631350a.js": "/sasionapp/precache-manifest.9cc8297bd5428b41a7fd0034e631350a.js",
     "service-worker.js": "/sasionapp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sasionapp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.84ae64c4.chunk.js.LICENSE.txt": "/sasionapp/static/js/2.84ae64c4.chunk.js.LICENSE.txt",
+    "static/css/2.af3c1da9.chunk.css.map": "/sasionapp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e458c6fc.chunk.css.map": "/sasionapp/static/css/main.e458c6fc.chunk.css.map",
+    "static/js/2.8d3d2889.chunk.js.LICENSE.txt": "/sasionapp/static/js/2.8d3d2889.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/sasionapp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4468a8c1.js",
-    "static/js/2.84ae64c4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e1b6663c.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d3d2889.chunk.js",
+    "static/css/main.e458c6fc.chunk.css",
+    "static/js/main.cfe9c1fa.chunk.js"
   ]
 }
