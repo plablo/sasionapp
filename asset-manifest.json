@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sasionapp/static/css/main.811c4205.chunk.css",
+    "main.css": "/sasionapp/static/css/main.11c7f81b.chunk.css",
     "main.js": "/sasionapp/static/js/main.8dbf960c.chunk.js",
     "main.js.map": "/sasionapp/static/js/main.8dbf960c.chunk.js.map",
     "runtime-main.js": "/sasionapp/static/js/runtime-main.4468a8c1.js",
@@ -9,10 +9,10 @@
     "static/js/2.d211a5c8.chunk.js": "/sasionapp/static/js/2.d211a5c8.chunk.js",
     "static/js/2.d211a5c8.chunk.js.map": "/sasionapp/static/js/2.d211a5c8.chunk.js.map",
     "index.html": "/sasionapp/index.html",
-    "precache-manifest.511fa1d453b507641201d38b2b91db4c.js": "/sasionapp/precache-manifest.511fa1d453b507641201d38b2b91db4c.js",
+    "precache-manifest.4657e32da7a66fb95ad89c12cb37a09e.js": "/sasionapp/precache-manifest.4657e32da7a66fb95ad89c12cb37a09e.js",
     "service-worker.js": "/sasionapp/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/sasionapp/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.811c4205.chunk.css.map": "/sasionapp/static/css/main.811c4205.chunk.css.map",
+    "static/css/main.11c7f81b.chunk.css.map": "/sasionapp/static/css/main.11c7f81b.chunk.css.map",
     "static/js/2.d211a5c8.chunk.js.LICENSE.txt": "/sasionapp/static/js/2.d211a5c8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/sasionapp/static/media/Courgette-Regular.59c3685a.ttf",
     "static/media/logo.svg": "/sasionapp/static/media/logo.5d5d9eef.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.4468a8c1.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.d211a5c8.chunk.js",
-    "static/css/main.811c4205.chunk.css",
+    "static/css/main.11c7f81b.chunk.css",
     "static/js/main.8dbf960c.chunk.js"
   ]
 }

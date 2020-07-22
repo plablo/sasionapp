@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20789a0898f85b3aaaa7448f1339d1cc",
+    "revision": "2f1172a59791824887fe705ab1b73b2a",
     "url": "/sasionapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasionapp/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "575fe52947364d819aa5",
-    "url": "/sasionapp/static/css/main.811c4205.chunk.css"
+    "revision": "e9cf698c0f5813653d6d",
+    "url": "/sasionapp/static/css/main.11c7f81b.chunk.css"
   },
   {
     "revision": "c9b7a222a0a206af8fc9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasionapp/static/js/2.d211a5c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "575fe52947364d819aa5",
+    "revision": "e9cf698c0f5813653d6d",
     "url": "/sasionapp/static/js/main.8dbf960c.chunk.js"
   },
   {
