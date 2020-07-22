@@ -60,3 +60,13 @@ textarea.form-control:focus, input.form-control:focus {
   color: white;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #9400FF, 0 0 40px #9400FF, 0 0 50px #9400FF;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: transparent;
+  text-align: center;
+  color: #9400FF;
+  font-family: 'Courgette';
+}

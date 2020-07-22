@@ -54,7 +54,7 @@ function App() {
         </Form>
       </header>
       <footer>
-
+        beta
       </footer>
     </div>
   );
