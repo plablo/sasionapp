@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sesionapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sesionapp/static/js/main.fc2310e3.chunk.js",
-    "main.js.map": "/sesionapp/static/js/main.fc2310e3.chunk.js.map",
-    "runtime-main.js": "/sesionapp/static/js/runtime-main.388f60b8.js",
-    "runtime-main.js.map": "/sesionapp/static/js/runtime-main.388f60b8.js.map",
-    "static/js/2.84ae64c4.chunk.js": "/sesionapp/static/js/2.84ae64c4.chunk.js",
-    "static/js/2.84ae64c4.chunk.js.map": "/sesionapp/static/js/2.84ae64c4.chunk.js.map",
-    "index.html": "/sesionapp/index.html",
-    "precache-manifest.0470e94a19f1a57ec1d87396664e02ed.js": "/sesionapp/precache-manifest.0470e94a19f1a57ec1d87396664e02ed.js",
-    "service-worker.js": "/sesionapp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sesionapp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.84ae64c4.chunk.js.LICENSE.txt": "/sesionapp/static/js/2.84ae64c4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sesionapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sasionapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sasionapp/static/js/main.e1b6663c.chunk.js",
+    "main.js.map": "/sasionapp/static/js/main.e1b6663c.chunk.js.map",
+    "runtime-main.js": "/sasionapp/static/js/runtime-main.4468a8c1.js",
+    "runtime-main.js.map": "/sasionapp/static/js/runtime-main.4468a8c1.js.map",
+    "static/js/2.84ae64c4.chunk.js": "/sasionapp/static/js/2.84ae64c4.chunk.js",
+    "static/js/2.84ae64c4.chunk.js.map": "/sasionapp/static/js/2.84ae64c4.chunk.js.map",
+    "index.html": "/sasionapp/index.html",
+    "precache-manifest.c7c19b049ebc94910268ca01b52d6ece.js": "/sasionapp/precache-manifest.c7c19b049ebc94910268ca01b52d6ece.js",
+    "service-worker.js": "/sasionapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sasionapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.84ae64c4.chunk.js.LICENSE.txt": "/sasionapp/static/js/2.84ae64c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sasionapp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.388f60b8.js",
+    "static/js/runtime-main.4468a8c1.js",
     "static/js/2.84ae64c4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fc2310e3.chunk.js"
+    "static/js/main.e1b6663c.chunk.js"
   ]
 }
