@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+textarea.form-control, input.form-control {
+  background-color: transparent;
+  border: none !important;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+textarea.form-control:focus, input.form-control:focus {
+  border-color: transparent !important;
+  background-color: transparent;
+  box-shadow: none;
+  color: white;
+}

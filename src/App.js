@@ -1,24 +1,49 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import Form from 'react-bootstrap/Form'
 import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
+  const [texto, setTexto] = useState("La appzación");
+  const [intro, setIntro] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setTexto('La appsación');
+      setTimeout(() => {
+        setTexto('La appsasión');
+        setIntro(false);
+      }, 250)
+    }, 2000)
+  }, [])
+
+  useEffect(() => {
+    if (!intro && texto) {
+      let nuevoTexto = texto.replace(/[z]([aáeéiíoóuú])|c([eéií])/gi, 's$1$2')
+      setTexto(nuevoTexto)
+    }
+  }, [texto])
+
+  const inputHandler = (event) => {
+    setTexto(event.target.value);
+  }
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Form>
+          {/*           <Form.Row className="mb-4 text-center">
+            <h1>La appsasión</h1>
+          </Form.Row> */}
+          <Form.Row className="mb-4 text-center">
+            <Form.Control as="textarea" rows="6" onChange={inputHandler} value={texto} onFocus={(e) => e.target.select()} />
+          </Form.Row>
+        </Form>
       </header>
+      <footer>
+
+      </footer>
     </div>
   );
 }
