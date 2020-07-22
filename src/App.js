@@ -37,7 +37,14 @@ function App() {
             <h1>La appsasión</h1>
           </Form.Row> */}
           <Form.Row className="mb-4 text-center">
-            <Form.Control as="textarea" rows="6" onChange={inputHandler} value={texto} onFocus={(e) => e.target.select()} />
+            <Form.Control
+              as="textarea"
+              rows="6"
+              onChange={inputHandler}
+              value={texto}
+              onFocus={() => setTexto('')}
+              className="align-self-center"
+            />
           </Form.Row>
         </Form>
       </header>
