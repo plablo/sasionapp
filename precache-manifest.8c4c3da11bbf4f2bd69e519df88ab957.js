@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "006711fd4df585f979d5d56597a56aa3",
+    "revision": "30a085f9e75a7f6f626857af37c01bc7",
     "url": "/sasionapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasionapp/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0ac636061aed0b8a60e2",
-    "url": "/sasionapp/static/css/main.5e6c4c9b.chunk.css"
+    "revision": "d7d074266ff36c6a3565",
+    "url": "/sasionapp/static/css/main.3ffc8fd9.chunk.css"
   },
   {
     "revision": "c9b7a222a0a206af8fc9",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sasionapp/static/js/2.d211a5c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ac636061aed0b8a60e2",
+    "revision": "d7d074266ff36c6a3565",
     "url": "/sasionapp/static/js/main.8dbf960c.chunk.js"
   },
   {
     "revision": "f952f80a29af5bbf1435",
     "url": "/sasionapp/static/js/runtime-main.4468a8c1.js"
+  },
+  {
+    "revision": "59c3685a73f0f1b7c302dd2d6dabd628",
+    "url": "/sasionapp/static/media/Courgette-Regular.59c3685a.ttf"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
