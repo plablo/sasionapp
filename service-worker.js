@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sasionapp/precache-manifest.8d6ec0c9cd68921a0f03114b48d7e0ed.js"
+  "/sasionapp/precache-manifest.fddbfbc196fb7e9a66d73bb2ba207b91.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sasionapp/static/css/main.d8b4aa51.chunk.css",
-    "main.js": "/sasionapp/static/js/main.8dbf960c.chunk.js",
-    "main.js.map": "/sasionapp/static/js/main.8dbf960c.chunk.js.map",
+    "main.js": "/sasionapp/static/js/main.2a29ae17.chunk.js",
+    "main.js.map": "/sasionapp/static/js/main.2a29ae17.chunk.js.map",
     "runtime-main.js": "/sasionapp/static/js/runtime-main.4468a8c1.js",
     "runtime-main.js.map": "/sasionapp/static/js/runtime-main.4468a8c1.js.map",
     "static/css/2.af3c1da9.chunk.css": "/sasionapp/static/css/2.af3c1da9.chunk.css",
     "static/js/2.d211a5c8.chunk.js": "/sasionapp/static/js/2.d211a5c8.chunk.js",
     "static/js/2.d211a5c8.chunk.js.map": "/sasionapp/static/js/2.d211a5c8.chunk.js.map",
     "index.html": "/sasionapp/index.html",
-    "precache-manifest.8d6ec0c9cd68921a0f03114b48d7e0ed.js": "/sasionapp/precache-manifest.8d6ec0c9cd68921a0f03114b48d7e0ed.js",
+    "precache-manifest.fddbfbc196fb7e9a66d73bb2ba207b91.js": "/sasionapp/precache-manifest.fddbfbc196fb7e9a66d73bb2ba207b91.js",
     "service-worker.js": "/sasionapp/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/sasionapp/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d8b4aa51.chunk.css.map": "/sasionapp/static/css/main.d8b4aa51.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.d211a5c8.chunk.js",
     "static/css/main.d8b4aa51.chunk.css",
-    "static/js/main.8dbf960c.chunk.js"
+    "static/js/main.2a29ae17.chunk.js"
   ]
 }
