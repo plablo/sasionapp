@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "738ddd2d5d6e8082cec6c81ff2bb3d54",
+    "revision": "6edffa2158b79852257f4ed108c6803e",
     "url": "/sasionapp/index.html"
   },
   {
